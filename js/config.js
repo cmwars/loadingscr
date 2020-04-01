@@ -17,7 +17,7 @@ var l_serverName = "PurgeRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
@@ -97,9 +97,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Have fun !"
+"Join our Discord: gmod.purgepvp.net",
+"Upgrade Your Account: store.purgepvp.net",
+"Don't forget to check out the !rules"
 ];
 
 /*Random message order?*/
