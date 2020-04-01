@@ -44,7 +44,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "Purge_GMOD_BG.webm";
+var l_background = "backgrounds/videos/coldnight.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -75,10 +75,10 @@ var l_bgDarkening = 0;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
